@@ -1,0 +1,1 @@
+y0: 1830   # AV2 ring_front_center rows >= y0 show the ego hood; boxes at least half inside carry no geometry

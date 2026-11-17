@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+runs/
+tables/
+datasets/
+third_party/
+weights/*.pt
+*.pkl
+.venv/
+.DS_Store

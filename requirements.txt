@@ -1,0 +1,11 @@
+# Python 3.12, CUDA 12.4 wheels (the environment the numbers were produced with)
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
+ultralytics==8.4.163
+numpy==2.5.3
+opencv-python==5.0.0.93
+pandas==3.0.6
+scipy==1.17.1
+pyarrow==25.0.1
+sahi==0.12.7            # SAHI row only
