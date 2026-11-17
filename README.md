@@ -20,16 +20,6 @@ A cheap low-resolution pass gives a draft scene and action. Probing the planner 
 
 <p align="center"><img src="assets/method.png" width="100%" alt="DGSP overview"></p>
 
-## Results
-
-Agreement with the action of whole-frame inference at 960 px (Agr.), braking-episode F1, and detector-input pixels (% of native).
-
-| Method | nuScenes<br>Agr. / F1 / px | Argoverse 2<br>Agr. / F1 / px | Argoverse-HD<br>Agr. / F1 / px |
-|:--|:-:|:-:|:-:|
-| Whole frame, 512 px | 97.7 / 62.2 / 10.2 | 96.4 / 71.3 / 6.7 | 94.5 / 39.8 / 7.1 |
-| Whole frame, 960 px | 100 / 65.0 / 38.4 | 100 / 75.9 / 23.2 | 100 / 40.9 / 25.3 |
-| **DGSP** | **98.7 / 69.0 / 8.4** | **98.2 / 77.5 / 5.9** | **97.5 / 46.7 / 6.9** |
-
 ## Quick start
 
 ```bash
