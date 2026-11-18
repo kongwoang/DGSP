@@ -4,7 +4,7 @@
 
 **Check Your Blind Spots: Decision-Guided Perception by Probing the Planner with Hypothetical Objects**
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv%20(soon)-b31b1b.svg)](#citation)
+[![arXiv](https://img.shields.io/badge/arXiv-2611.23030-b31b1b.svg)](https://arxiv.org/abs/2611.23030)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB.svg?logo=python&logoColor=white)](requirements.txt)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.6-EE4C2C.svg?logo=pytorch&logoColor=white)](requirements.txt)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
