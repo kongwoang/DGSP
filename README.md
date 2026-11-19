@@ -37,7 +37,11 @@ Datasets: see [`data/README.md`](data/README.md). `--methods all` runs every row
 @misc{phamcong2026dgsp,
   title  = {Check Your Blind Spots: Decision-Guided Perception by Probing the Planner with Hypothetical Objects},
   author = {Hoang Pham Cong and Long D. Nguyen and Ho Viet Duc Luong and Nguyen Tran Minh Nhat and Binh P. Nguyen},
-  year   = {2026}
+  year   = {2026},
+  eprint = {2611.23030},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CV},
+  url = {https://arxiv.org/abs/2611.23030}
 }
 ```
 
